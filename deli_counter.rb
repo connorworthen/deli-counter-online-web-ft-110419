@@ -16,6 +16,5 @@ def line(array)
        response = "The line is currently serving:"
        array.each_with_index do |index, name|
          response += " #{index+1. name}"
-    end
-  end
-end
+       end
+     end
