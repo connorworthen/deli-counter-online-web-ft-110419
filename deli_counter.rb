@@ -1,3 +1,3 @@
-  katz_deli = []
-
-  take_a_number(katz_deli, "empty")
+def katz_deli = []
+  return katz_deli
+end
