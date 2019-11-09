@@ -17,4 +17,4 @@ def line(array)
        array.each_with_index do |index, name|
          response += " #{index+1. name}"
       end
-    end
+    
